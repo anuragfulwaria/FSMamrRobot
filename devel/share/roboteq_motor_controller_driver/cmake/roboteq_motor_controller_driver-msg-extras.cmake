@@ -1,0 +1,2 @@
+set(roboteq_motor_controller_driver_MESSAGE_FILES "/home/fsm/anurag_amr/src/roboteq_motor_controller_driver/msg/channel_values.msg")
+set(roboteq_motor_controller_driver_SERVICE_FILES "/home/fsm/anurag_amr/src/roboteq_motor_controller_driver/srv/config_srv.srv;/home/fsm/anurag_amr/src/roboteq_motor_controller_driver/srv/command_srv.srv;/home/fsm/anurag_amr/src/roboteq_motor_controller_driver/srv/maintenance_srv.srv")

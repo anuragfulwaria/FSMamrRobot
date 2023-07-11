@@ -1,0 +1,2 @@
+cad_assembly_amr_final_1_stable/cad_assembly_amr_final_1:cloud_segment:ira_laser_tools:navigation:pepperl_fuchs_r2000:roboteq_motor_controller_driver:slam_gmapping/gmapping:slam_gmapping/slam_gmapping
+-DCATKIN_DEVEL_PREFIX=/home/fsm/anurag_amr/devel -DCMAKE_INSTALL_PREFIX=/home/fsm/anurag_amr/install -G Unix Makefiles

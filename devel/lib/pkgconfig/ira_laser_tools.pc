@@ -1,0 +1,8 @@
+prefix=/home/fsm/anurag_amr/devel
+
+Name: ira_laser_tools
+Description: Description of ira_laser_tools
+Version: 1.0.7
+Cflags: -I/home/fsm/anurag_amr/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/fsm/anurag_amr/devel
+
+Name: cad_assembly_amr_final_1
+Description: Description of cad_assembly_amr_final_1
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
